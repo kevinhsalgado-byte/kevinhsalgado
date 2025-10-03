@@ -1,2 +1,2 @@
-# kevinhsalgado
+# About me
 My personal repository
